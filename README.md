@@ -1,16 +1,23 @@
-# mediscan
+# Mediscan
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Mediscan is a comprehensive app which helps patients and their guardians with the meds tracker, mood tracker and locating nearby pharmacies
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Pharmacy Locator:** Locates nearby pharmacies 
+* **SOS Messages:** With one click the user can call the guardian or alert them about the patient condition  
+* **Refill Prediction:** Using ML the app offers refill prediction 
+* **Symptom Tracker:** User can track their symptoms 
+* **AI Pill Identifier:** Upload the image of the pill and the app will tell which pill was it 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+### Prerequisites
+
+* **Operating System:** Windows, macOS, or Linux
+* **Flutter:**
+
