@@ -14,8 +14,6 @@ Mediscan is a comprehensive app which helps patients and their guardians with th
 * **AI Pill Identifier:** Upload the image of the pill and the app will tell which pill was it 
 
 
-## Installation
-
 ### Prerequisites
 
 * **Operating System:** Windows, macOS, or Linux
